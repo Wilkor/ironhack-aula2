@@ -1,0 +1,99 @@
+ /*Some necessary adjustments*/
+h1, body, html, main {
+    margin: 0;
+  }
+  /*Import the font and set the default size*/
+  html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px
+  }
+  
+ 
+ section{
+
+    background: url("../images/apple-pie.jpg") no-repeat;
+    background-size: 100% auto;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    color : white;
+    font-size: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+   
+
+ }
+
+ .applepie{
+
+    width:100%;
+
+}
+ .info-apple-pie{
+
+
+    margin-top: 30px;
+    margin-bottom:30px;
+    font-family: Arial;
+    align-content: center;
+    border-bottom: 3px solid #eee;
+    margin-left: auto;
+    margin-right: auto;
+    width:  600px;
+
+
+}
+.info2-apple-pie{
+     
+    margin-top: 30px;
+    margin-bottom:30px;
+    font-family: Arial;
+    align-content: center;
+    border-bottom: 3px solid #eee;
+    margin-left: auto;
+    margin-right: auto;
+    width:  600px
+
+}
+.info3-apple-pie{
+     
+    margin-top: 30px;
+    margin-bottom:30px;
+    font-family: Arial;
+    align-content: center;
+    border-bottom: 3px solid #eee;
+    margin-left: auto;
+    margin-right: auto;
+    width:  600px
+
+}
+ .applepie .titulo{
+
+    font-family: Arial;
+    color:#ffff;
+    overflow: center
+
+}
+
+ .img-applepie-info{
+    margin-top: 30px;
+    margin-bottom:30px;
+    height: 50px ;
+
+
+}
+.img-applepie-info2{
+    margin-top: 30px;
+    margin-bottom:30px;
+    height: 60px ;
+
+
+}
+article h1{
+
+    font-family: Arial;
+    color: #616161a4
+
+}   
